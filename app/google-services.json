@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085591169556",
+    "project_id": "intellify-task-c6389",
+    "storage_bucket": "intellify-task-c6389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085591169556:android:03427d4deefc3f943a5501",
+        "android_client_info": {
+          "package_name": "com.example.intellify_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085591169556-co1phcac1g4g8htmc33ps8skms3s0v82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnc-7EdpSeeJ0uhGJt7hfXJ-PndijaMHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085591169556-co1phcac1g4g8htmc33ps8skms3s0v82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
